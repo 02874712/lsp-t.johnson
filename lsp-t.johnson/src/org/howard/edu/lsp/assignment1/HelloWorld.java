@@ -5,7 +5,7 @@ package org.howard.edu.lsp.assignment1;
  * 
  * @author Tashiana
  *
- *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
+ *
  */
 public class HelloWorld {
 
